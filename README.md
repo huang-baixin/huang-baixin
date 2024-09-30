@@ -5,6 +5,7 @@
 - 📫 How to reach me: zhihu -@
 - 😄 Pronouns: He/His
 
-
+<!--
 ![Baixin's GitHub stats](https://github-readme-stats.vercel.app/api?username=huang-baixin)
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huang-baixin)
